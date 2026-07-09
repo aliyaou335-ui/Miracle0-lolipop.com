@@ -1,0 +1,14 @@
+.top-banner-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    
+    /* Changed this to a solid, cute pastel pink/white so it definitely shows up! */
+    background-color: #fff0f5; 
+    
+    border-bottom: 3px solid #ffb7c5; /* Adds a cute pink border under the nav bar */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
